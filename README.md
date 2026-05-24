@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center">  
   Emotion-Aware Intelligence System <br>
   for Real-Time Personalized Healthcare
 </h1>
